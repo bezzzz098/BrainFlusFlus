@@ -63,3 +63,8 @@ def brain(n):                             #a main function to do the work
             break
     print(data)
 brain(inpud)
+
+
+#below is format for input, copy it without the "#" symbol [the input contain the brainF codes in the first line and integer numbers in second line
+#;>;<>;<[->+<][->+<][->+<]+++>++++<[->++<][->+>++<<]+++[->++<]>;<>-<[->+>+<<]>>[-<<+>>]<<+++>;<[>+<-]>:<[->+>+<<]>>[-<<+>>]<<;;>++++<[->++<][->+<][->+<][->+>+<<]>>[-<<+>>]<<:>;<[>+<-][>+<-][>+<-]+:>-:<>;<[->+>++<<]>-<+++[->+>++<<][->++<]:>-<:>++++<:[->+>+<<]>>[-<<+>>]<<+++;>++++<>:<:>;<>-<>;<[>+<-][->+<][->+<];>-<[>+<-]>-<[->++<]:[->++<]+:>-:<:>:
+#3 15 9 2 3 7 8 11 16 16 6 6 14
