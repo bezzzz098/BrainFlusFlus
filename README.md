@@ -13,10 +13,16 @@ like you need 8 "+" to generate value 8 in current cell but with ";" you just ne
 example:
 
 traditional way=
+input:
 ++++++++++++++++++++++++>+++[<+>-]<:>: 
+
 output: 27 0
 
+
+
 brain++ way=  
+input:
 24 3
-;>;[<+>-]<:>:    
+;>;[<+>-]<:>:   
+
 output: 27 0
