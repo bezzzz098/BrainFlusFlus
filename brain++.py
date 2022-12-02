@@ -22,9 +22,9 @@ def brain(n):                             #a main function to do the work
             kolom += 1
         elif x == "<":
             kolom -= 1
-        elif x == ":":
+        elif x == ":":                           #this is the first brain++ statement that will print the current cell
             print(data[kolom])
-        elif x == ";":
+        elif x == ";":                           #this is the second brain++ statement that will get/input the integer number in current cell [for example: traditional way, u need to type multiple or do looping to generate some numbers in certain cell, but brain++ u only need to input integer number and ";" symbol]
             data[kolom] = angka[Acounter]
             Acounter += 1
         indeg += 1
