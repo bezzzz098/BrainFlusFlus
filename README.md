@@ -22,7 +22,11 @@ output: 27 0
 
 brain++ way=  
 input:
+;>;[<+>-]<:>: 
 24 3
-;>;[<+>-]<:>:   
+  
 
 output: 27 0
+
+
+as you can see that ";" will "return" number in the same position. whereas first ";" return 24 and second ";" return 3. after each ";" return its number. the brain++ program executed
